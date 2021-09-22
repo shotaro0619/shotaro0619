@@ -1,6 +1,5 @@
-[![](https://raw.githubusercontent.com/moritamori/moritamori/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/moritamori/moritamori/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/moritamori/moritamori/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
+
 
 <!--
 **shotaro0619/shotaro0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
