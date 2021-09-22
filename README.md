@@ -1,4 +1,4 @@
-![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
+![shotaro0619 github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
 
 
 <!--
