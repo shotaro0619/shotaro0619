@@ -22,7 +22,7 @@
 - Vue.js
 
 # ポートフォリオ
-[Win Win Hobby](https://win-win-hobby.com/)</br>自分の趣味を教えたい人とその趣味を教わりたい人が繋がる事のできるマッチングサイトです。 また教えたい人同士、教わりたい人同士 でも繋がることができます。
+[Win Win Hobby](https://win-win-hobby.com/)</br>自分の趣味を教えたい人とその趣味を教わりたい人が繋がる事のできるマッチングサイトです。 </br>また教えたい人同士、教わりたい人同士 でも繋がることができます。<br>
 [GitHub](https://github.com/shotaro0619/pf-win-win-hobby)
 
 <!-- **shotaro0619/shotaro0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
