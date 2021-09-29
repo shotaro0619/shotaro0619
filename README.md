@@ -42,6 +42,6 @@
 | 漫画・アニメ | ONE PIECE、ドラゴンボールなどなんでも好きです。日本に生まれて良かったです。 | 
 
 # リンク
-[Twittet](https://twitter.com/shotaro68046088)
+[Twitter](https://twitter.com/shotaro68046088)
 日々の学習を毎日記録しています。
 
