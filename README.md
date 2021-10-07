@@ -1,4 +1,4 @@
-### 観覧いただきありがとうございます。
+### 観覧いただきましてありがとうございます。
 
 ![shotaro0619 github stats](https://github-readme-stats.vercel.app/api?username=shotaro0619)
 
