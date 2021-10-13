@@ -16,7 +16,8 @@
 現在、愛知県碧南市在住。
 
 # 学習中言語
-- HTML/CSS
+- HTML
+- CSS
 - Ruby(Ruby on Rails)
 - Java
 - SQL
